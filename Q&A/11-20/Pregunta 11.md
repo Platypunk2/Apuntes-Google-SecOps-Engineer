@@ -28,5 +28,17 @@ Como la pregunta pide específicamente identificar **tráfico originado desde el
 
 ---
 
+**Por qué no las demás**
 
+- **A** (`network.ApplicationProtocol = HTTP`): Es demasiado **genérico** — capturaría **todo** el tráfico HTTP de tu organización, no específicamente el del servidor con el backdoor. No usa el dato más específico y único que tienes (el puerto 5555).
+
+- **B** (`target.port = 5555`): Esto capturaría tráfico **dirigido hacia** el servidor (conexiones entrantes el puerto 5555), no tráfico **originado desde** él. Es el campo opuesto al que necesitas según lo que pide la pregunta.
+
+- **D** (`network.ip_protocol = TCP`): Extremadamente genérico — **la gran mayoría del tráfico de red es TCP**. No te ayuda en absoluto a aislar el comportamiento específico del backdoor.
+
+---
+
+**La idea clave para recordar**
+
+Cuando una pregunta distinga entre **"tráfico que origina desde X"** vs **"tráfico dirigido hacia X"**, la calve está en identificar correctamente si necesitas `principal` (origen) o `target` (destino) en el modelo UDM — y aquí, como el enunciado dice explícitamente **"identify traffic originating from the server"**, el campo correcto es `principal.port`.
 

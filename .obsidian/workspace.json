@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/11-20/Pregunta 11.md",
+                "file": "Cosas que entender para examen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 11"
+              "title": "Cosas que entender para examen"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/11-20/Pregunta 11.md",
+                "file": "Cosas que entender para examen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,11 +188,16 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
-    "Pasted image 20260907173735.png",
-    "Q&A/1-10/Pregunta 10.md",
-    "Q&A/11-20/Pregunta 11.md",
-    "Q&A/11-20",
     "README.md",
+    "Cosas que entender para examen.md",
+    "IMG/Pasted image 20260907191841.png",
+    "IMG/Pasted image 20260907173735.png",
+    "IMG/Pasted image 20260907143237.png",
+    "IMG/Pasted image 20260907142506.png",
+    "Q&A/11-20/Pregunta 12.md",
+    "Q&A/11-20/Pregunta 11.md",
+    "Q&A/1-10/Pregunta 10.md",
+    "Q&A/11-20",
     "Fundamentos Entity Graph/Introducción al Entity Graph.md",
     "Q&A/1-10/Pregunta 4.md",
     "Q&A/1-10/Pregunta 6.md",
@@ -203,8 +208,6 @@
     "YARA-L/Search/YARA-L en busqueda.md",
     "YARA-L/Rules/YARA-L en reglas de detección.md",
     "YARA-L/Dashboard/YARA-L en dashboards.md",
-    "Pasted image 20260907143237.png",
-    "Pasted image 20260907142506.png",
     "Q&A/1-10/Pregunta 9.md",
     "Q&A/1-10/Pregunta 8.md",
     "IMG/Pasted image 20260906225359.png",
@@ -219,13 +222,10 @@
     "IMG/Pasted image 20260906183640.png",
     "Q&A/1-10/Pregunta 7.md",
     "Q&A/1-10",
-    "IMG/Pasted image 20260906202238.png",
     "Risk Aanlytics/UEBA (Endpoint Behavioral Analytics)/Que es UEBA (User and Entity Behavior Analytics).md",
     "Risk Aanlytics/Qué es Risk Analytics.md",
     "Conceptos Claves/Que es un IOC.md",
-    "IMG/Pasted image 20260906182746.png",
     "Fundamentos Entity Graph",
-    "Cosas que entender para examen.md",
     "Sin título.base",
     "YARA-L/Variables.md",
     "Conceptos Claves",
