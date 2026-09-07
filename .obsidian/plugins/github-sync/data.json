@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:Platypunk2/Apuntes-Google-SecOps-Engineer.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
