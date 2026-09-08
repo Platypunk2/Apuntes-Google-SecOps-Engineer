@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/11-20/Pregunta 12.md",
+                "file": "Q&A/11-20/Pregunta 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 12"
+              "title": "Pregunta 14"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/11-20/Pregunta 12.md",
+                "file": "Q&A/11-20/Pregunta 14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +188,17 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
+    "Conceptos Claves/Que es una CMDB.md",
+    "Q&A/11-20/Pregunta 14.md",
+    "IMG/Pasted image 20260907230028.png",
+    "Herramientas de GCP/Cloud Asset Inventory (CAI).md",
+    "Herramientas de GCP/Cloud Spanner/Spanner Graph.md",
+    "Q&A/11-20/Pregunta 13.md",
+    "IMG/Pasted image 20260907225331.png",
+    "Cosas que entender para examen.md",
+    "Q&A/11-20/Pregunta 12.md",
     "Conceptos Claves/Que es EDR.md",
     "Conceptos Claves/Que es un IOC.md",
-    "Q&A/11-20/Pregunta 12.md",
-    "Cosas que entender para examen.md",
     "README.md",
     "IMG/Pasted image 20260907191841.png",
     "IMG/Pasted image 20260907173735.png",
@@ -213,26 +220,18 @@
     "Q&A/1-10/Pregunta 9.md",
     "Q&A/1-10/Pregunta 8.md",
     "IMG/Pasted image 20260906225359.png",
-    "Herramientas de GCP/Cloud Spanner/Spanner Graph.md",
-    "Herramientas de GCP/Cloud Asset Inventory (CAI).md",
     "Herramientas de GCP/Cloud Spanner",
     "Herramientas de GCP",
     "IMG/Pasted image 20260906203756.png",
     "IMG/Pasted image 20260906194253.png",
     "IMG/Pasted image 20260906194104.png",
-    "IMG/Pasted image 20260906190515.png",
-    "IMG/Pasted image 20260906183640.png",
     "Q&A/1-10/Pregunta 7.md",
     "Q&A/1-10",
-    "Risk Aanlytics/UEBA (Endpoint Behavioral Analytics)/Que es UEBA (User and Entity Behavior Analytics).md",
-    "Risk Aanlytics/Qué es Risk Analytics.md",
     "Fundamentos Entity Graph",
     "Sin título.base",
-    "YARA-L/Variables.md",
     "Conceptos Claves",
     "IMG",
     "Q&A",
-    "Risk Aanlytics",
-    "YARA-L/Que es YARA-L.md"
+    "Risk Aanlytics"
   ]
 }
