@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos Claves/Que es EDR.md",
+                "file": "Q&A/11-20/Pregunta 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Que es EDR"
+              "title": "Pregunta 12"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptos Claves/Que es EDR.md",
+                "file": "Q&A/11-20/Pregunta 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +188,9 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
-    "Q&A/11-20/Pregunta 12.md",
     "Conceptos Claves/Que es EDR.md",
+    "Conceptos Claves/Que es un IOC.md",
+    "Q&A/11-20/Pregunta 12.md",
     "Cosas que entender para examen.md",
     "README.md",
     "IMG/Pasted image 20260907191841.png",
@@ -225,7 +226,6 @@
     "Q&A/1-10",
     "Risk Aanlytics/UEBA (Endpoint Behavioral Analytics)/Que es UEBA (User and Entity Behavior Analytics).md",
     "Risk Aanlytics/Qué es Risk Analytics.md",
-    "Conceptos Claves/Que es un IOC.md",
     "Fundamentos Entity Graph",
     "Sin título.base",
     "YARA-L/Variables.md",
