@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/11-20/Pregunta 17.md",
+                "file": "Q&A/11-20/Pregunta 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 17"
+              "title": "Pregunta 20"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/11-20/Pregunta 17.md",
+                "file": "Q&A/11-20/Pregunta 20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,16 +188,18 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
-    "Q&A/11-20/Pregunta 16.md",
+    "Pasted image 20260908140409.png",
     "Q&A/11-20/Pregunta 19.md",
+    "Q&A/11-20/Pregunta 20.md",
+    "Q&A/11-20/Pregunta 18.md",
+    "Q&A/11-20/Pregunta 17.md",
+    "Q&A/11-20/Pregunta 16.md",
     "IMG/Pasted image 20260908114207.png",
     "IMG/Pasted image 20260908114116.png",
     "IMG/Pasted image 20260908110854.png",
     "IMG/Pasted image 20260908101911.png",
     "Q&A/11-20/Pregunta 11.md",
-    "Q&A/11-20/Pregunta 18.md",
     "Q&A/11-20/Pregunta 15.md",
-    "Q&A/11-20/Pregunta 17.md",
     "Q&A/11-20/Pregunta 14.md",
     "Q&A/11-20/Pregunta 13.md",
     "Q&A/11-20/Pregunta 12.md",
@@ -223,7 +225,6 @@
     "Q&A/1-10/Pregunta 2.md",
     "Q&A/1-10/Pregunta 1.md",
     "YARA-L/Operadores y Modificadores en YARA-L.md",
-    "YARA-L/Search/YARA-L en busqueda.md",
     "Herramientas de GCP/Cloud Spanner",
     "Herramientas de GCP",
     "Q&A/1-10",
