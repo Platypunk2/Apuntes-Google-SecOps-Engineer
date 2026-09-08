@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/11-20/Pregunta 20.md",
+                "file": "Q&A/21-30/Pregunta 22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 20"
+              "title": "Pregunta 22"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/11-20/Pregunta 20.md",
+                "file": "Q&A/21-30/Pregunta 22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,11 +188,14 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
-    "Pasted image 20260908140409.png",
-    "Q&A/11-20/Pregunta 19.md",
+    "Pasted image 20260908174524.png",
     "Q&A/11-20/Pregunta 20.md",
+    "Q&A/21-30/Pregunta 22.md",
     "Q&A/11-20/Pregunta 18.md",
+    "Q&A/11-20/Pregunta 19.md",
     "Q&A/11-20/Pregunta 17.md",
+    "Q&A/21-30",
+    "Pasted image 20260908140409.png",
     "Q&A/11-20/Pregunta 16.md",
     "IMG/Pasted image 20260908114207.png",
     "IMG/Pasted image 20260908114116.png",
@@ -215,7 +218,6 @@
     "README.md",
     "IMG/Pasted image 20260907191841.png",
     "IMG/Pasted image 20260907173735.png",
-    "IMG/Pasted image 20260907143237.png",
     "Q&A/1-10/Pregunta 10.md",
     "Q&A/11-20",
     "Fundamentos Entity Graph/Introducción al Entity Graph.md",
@@ -224,7 +226,6 @@
     "Q&A/1-10/Pregunta 3.md",
     "Q&A/1-10/Pregunta 2.md",
     "Q&A/1-10/Pregunta 1.md",
-    "YARA-L/Operadores y Modificadores en YARA-L.md",
     "Herramientas de GCP/Cloud Spanner",
     "Herramientas de GCP",
     "Q&A/1-10",
@@ -232,7 +233,6 @@
     "Sin título.base",
     "Conceptos Claves",
     "IMG",
-    "Q&A",
-    "Risk Aanlytics"
+    "Q&A"
   ]
 }
