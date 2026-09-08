@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/11-20/Pregunta 14.md",
+                "file": "Q&A/11-20/Pregunta 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 14"
+              "title": "Pregunta 15"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/11-20/Pregunta 14.md",
+                "file": "Q&A/11-20/Pregunta 15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +188,10 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
-    "Conceptos Claves/Que es una CMDB.md",
+    "Pasted image 20260907235303.png",
     "Q&A/11-20/Pregunta 14.md",
+    "Q&A/11-20/Pregunta 15.md",
+    "Conceptos Claves/Que es una CMDB.md",
     "IMG/Pasted image 20260907230028.png",
     "Herramientas de GCP/Cloud Asset Inventory (CAI).md",
     "Herramientas de GCP/Cloud Spanner/Spanner Graph.md",
@@ -225,7 +227,6 @@
     "IMG/Pasted image 20260906203756.png",
     "IMG/Pasted image 20260906194253.png",
     "IMG/Pasted image 20260906194104.png",
-    "Q&A/1-10/Pregunta 7.md",
     "Q&A/1-10",
     "Fundamentos Entity Graph",
     "Sin título.base",
