@@ -11,12 +11,14 @@
             "id": "aafda95255289913",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG/Pasted image 20260908190424.png"
+                "file": "Q&A/21-30/Pregunta 28.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260908190424"
+              "icon": "lucide-file",
+              "title": "Pregunta 28"
             }
           }
         ]
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMG/Pasted image 20260908190424.png",
+                "file": "Q&A/21-30/Pregunta 28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,11 +186,32 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "029da181e713d48c",
+  "active": "aafda95255289913",
   "lastOpenFiles": [
-    "IMG/Pasted image 20260908182622.png",
+    "Pasted image 20260908210023.png",
+    "Q&A/21-30/Pregunta 27.md",
+    "Q&A/21-30/Pregunta 28.md",
+    "YARA-L/Rules/YARA-L en reglas de detección.md",
+    "Pasted image 20260908205048.png",
+    "Q&A/21-30/Pregunta 26.md",
+    "Pasted image 20260908200615.png",
+    "Q&A/21-30/Pregunta 25.md",
+    "Pasted image 20260908195101.png",
     "Q&A/21-30/Pregunta 24.md",
+    "Q&A/1-10/Pregunta 1.md",
+    "Q&A/11-20/Pregunta 13.md",
+    "Q&A/11-20/Pregunta 12.md",
+    "Q&A/11-20/Pregunta 11.md",
+    "Q&A/1-10/Pregunta 10.md",
+    "Q&A/1-10/Pregunta 9.md",
+    "Q&A/1-10/Pregunta 8.md",
+    "Q&A/1-10/Pregunta 7.md",
+    "Q&A/1-10/Pregunta 6.md",
+    "Q&A/1-10/Pregunta 4.md",
+    "Q&A/1-10/Pregunta 3.md",
+    "Q&A/1-10/Pregunta 2.md",
     "IMG/Pasted image 20260908190424.png",
+    "IMG/Pasted image 20260908182622.png",
     "Q&A/21-30/Pregunta 22.md",
     "Q&A/21-30/Pregunta 23.md",
     "IMG/Pasted image 20260908174524.png",
@@ -202,27 +225,7 @@
     "IMG/Pasted image 20260908114207.png",
     "IMG/Pasted image 20260908114116.png",
     "IMG/Pasted image 20260908110854.png",
-    "IMG/Pasted image 20260908101911.png",
-    "Q&A/11-20/Pregunta 11.md",
-    "Q&A/11-20/Pregunta 15.md",
-    "Q&A/11-20/Pregunta 14.md",
-    "Q&A/11-20/Pregunta 13.md",
-    "Q&A/11-20/Pregunta 12.md",
-    "IMG/Pasted image 20260907235303.png",
-    "Conceptos Claves/Que es una CMDB.md",
-    "IMG/Pasted image 20260907230028.png",
-    "Herramientas de GCP/Cloud Asset Inventory (CAI).md",
-    "Herramientas de GCP/Cloud Spanner/Spanner Graph.md",
-    "Cosas que entender para examen.md",
-    "Conceptos Claves/Que es EDR.md",
-    "Conceptos Claves/Que es un IOC.md",
-    "README.md",
-    "Q&A/1-10/Pregunta 10.md",
     "Q&A/11-20",
-    "Fundamentos Entity Graph/Introducción al Entity Graph.md",
-    "Q&A/1-10/Pregunta 4.md",
-    "Q&A/1-10/Pregunta 6.md",
-    "Q&A/1-10/Pregunta 3.md",
     "Herramientas de GCP/Cloud Spanner",
     "Herramientas de GCP",
     "Q&A/1-10",
