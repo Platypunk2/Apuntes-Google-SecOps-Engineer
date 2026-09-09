@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/41-50/Pregunta 41.md",
+                "file": "Q&A/41-50/Pregunta 49.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 41"
+              "title": "Pregunta 49"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/41-50/Pregunta 41.md",
+                "file": "Q&A/41-50/Pregunta 49.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,28 +186,38 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "029da181e713d48c",
+  "active": "aafda95255289913",
   "lastOpenFiles": [
+    "Pasted image 20260908234557.png",
+    "Q&A/41-50/Pregunta 48.md",
+    "Q&A/41-50/Pregunta 49.md",
+    "Pasted image 20260908234137.png",
+    "Q&A/41-50/Pregunta 47.md",
+    "IMG/Pasted image 20260908233926.png",
+    "IMG/Pasted image 20260908231615.png",
+    "Q&A/41-50/Pregunta 46.md",
+    "IMG/Pasted image 20260908233612.png",
+    "Q&A/41-50/Pregunta 45.md",
+    "Q&A/11-20/Pregunta 20.md",
+    "YARA-L/Rules/YARA-L en reglas de detección.md",
+    "IMG/Pasted image 20260908233047.png",
+    "Q&A/41-50/Pregunta 44.md",
+    "IMG/Pasted image 20260908232635.png",
+    "Q&A/41-50/Pregunta 43.md",
+    "IMG/Pasted image 20260908232414.png",
+    "Q&A/41-50/Pregunta 42.md",
+    "Q&A/41-50/Pregunta 41.md",
     "IMG/Pasted image 20260908231148.png",
     "Q&A/31-40/Pregunta 40.md",
-    "Q&A/41-50/Pregunta 41.md",
     "Q&A/41-50",
     "IMG/Pasted image 20260908230556.png",
     "Q&A/31-40/Pregunta 39.md",
     "IMG/Pasted image 20260908230146.png",
     "Q&A/31-40/Pregunta 38.md",
-    "IMG/Pasted image 20260908225534.png",
     "Q&A/31-40/Pregunta 37.md",
-    "IMG/Pasted image 20260908225257.png",
     "Q&A/31-40/Pregunta 36.md",
-    "IMG/Pasted image 20260908224531.png",
     "Q&A/31-40/Pregunta 35.md",
-    "IMG/Pasted image 20260908223724.png",
     "Q&A/31-40/Pregunta 34.md",
-    "IMG/Pasted image 20260908222515.png",
-    "IMG/Pasted image 20260908214637.png",
-    "IMG/Pasted image 20260908214309.png",
-    "IMG/Pasted image 20260908213211.png",
     "Cosas que entender para examen.md",
     "Q&A/31-40/Pregunta 33.md",
     "Q&A/31-40/Pregunta 32.md",
@@ -215,17 +225,7 @@
     "Q&A/1-10/Pregunta 3.md",
     "Q&A/1-10/Pregunta 2.md",
     "Q&A/1-10/Pregunta 1.md",
-    "Q&A/31-40/Pregunta 31.md",
-    "Q&A/21-30/Pregunta 30.md",
     "Q&A/31-40",
-    "Q&A/21-30/Pregunta 29.md",
-    "Q&A/21-30/Pregunta 28.md",
-    "Q&A/21-30/Pregunta 27.md",
-    "YARA-L/Rules/YARA-L en reglas de detección.md",
-    "Q&A/21-30/Pregunta 26.md",
-    "Q&A/21-30/Pregunta 25.md",
-    "Q&A/21-30/Pregunta 24.md",
-    "Q&A/11-20/Pregunta 13.md",
     "Q&A/21-30",
     "Q&A/11-20",
     "Herramientas de GCP/Cloud Spanner",
