@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A/41-50/Pregunta 49.md",
+                "file": "Q&A/51-60/Pregunta 57.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pregunta 49"
+              "title": "Pregunta 57"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q&A/41-50/Pregunta 49.md",
+                "file": "Q&A/51-60/Pregunta 57.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,43 +188,44 @@
   },
   "active": "aafda95255289913",
   "lastOpenFiles": [
+    "Pasted image 20260909002045.png",
+    "Q&A/51-60/Pregunta 56.md",
+    "Q&A/51-60/Pregunta 57.md",
+    "Pasted image 20260909001823.png",
+    "Q&A/51-60/Pregunta 55.md",
+    "Pasted image 20260909001558.png",
+    "Q&A/51-60/Pregunta 54.md",
+    "Pasted image 20260909001259.png",
+    "Q&A/51-60/Pregunta 53.md",
+    "Pasted image 20260909001136.png",
+    "Q&A/51-60/Pregunta 52.md",
+    "Pasted image 20260909000311.png",
+    "Q&A/51-60/Pregunta 51.md",
+    "Pasted image 20260908235428.png",
+    "Q&A/41-50/Pregunta 50.md",
+    "Q&A/51-60",
+    "Pasted image 20260908234949.png",
+    "Q&A/41-50/Pregunta 49.md",
     "Pasted image 20260908234557.png",
     "Q&A/41-50/Pregunta 48.md",
-    "Q&A/41-50/Pregunta 49.md",
     "Pasted image 20260908234137.png",
     "Q&A/41-50/Pregunta 47.md",
     "IMG/Pasted image 20260908233926.png",
-    "IMG/Pasted image 20260908231615.png",
     "Q&A/41-50/Pregunta 46.md",
-    "IMG/Pasted image 20260908233612.png",
     "Q&A/41-50/Pregunta 45.md",
     "Q&A/11-20/Pregunta 20.md",
     "YARA-L/Rules/YARA-L en reglas de detección.md",
-    "IMG/Pasted image 20260908233047.png",
     "Q&A/41-50/Pregunta 44.md",
-    "IMG/Pasted image 20260908232635.png",
     "Q&A/41-50/Pregunta 43.md",
-    "IMG/Pasted image 20260908232414.png",
     "Q&A/41-50/Pregunta 42.md",
     "Q&A/41-50/Pregunta 41.md",
-    "IMG/Pasted image 20260908231148.png",
     "Q&A/31-40/Pregunta 40.md",
     "Q&A/41-50",
-    "IMG/Pasted image 20260908230556.png",
     "Q&A/31-40/Pregunta 39.md",
-    "IMG/Pasted image 20260908230146.png",
     "Q&A/31-40/Pregunta 38.md",
     "Q&A/31-40/Pregunta 37.md",
     "Q&A/31-40/Pregunta 36.md",
     "Q&A/31-40/Pregunta 35.md",
-    "Q&A/31-40/Pregunta 34.md",
-    "Cosas que entender para examen.md",
-    "Q&A/31-40/Pregunta 33.md",
-    "Q&A/31-40/Pregunta 32.md",
-    "Q&A/1-10/Pregunta 4.md",
-    "Q&A/1-10/Pregunta 3.md",
-    "Q&A/1-10/Pregunta 2.md",
-    "Q&A/1-10/Pregunta 1.md",
     "Q&A/31-40",
     "Q&A/21-30",
     "Q&A/11-20",
@@ -232,7 +233,6 @@
     "Herramientas de GCP",
     "Q&A/1-10",
     "Fundamentos Entity Graph",
-    "Sin título.base",
-    "Conceptos Claves"
+    "Sin título.base"
   ]
 }
