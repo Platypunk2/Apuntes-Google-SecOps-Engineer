@@ -18,3 +18,24 @@
 
 ---
 
+#### Por qué no las demás
+
+**B** (Cargar registros de red en BigQuery para detectar comunicación fuera de 3 desviaciones estándar):
+
+- Esto requiere **construir desde cero** un análisis estadístico personalizado: extraer los datos, cargarlos en BigQuery, definir el modelo de "normalidad" y calcular desviaciones estándar. Es un proceso de **ingeniería de datos considerable**, poco realista de completar con precisión en **24 horas**.
+- Además, la detección por desviación estándar genera **muchos falsos positivos** (cualquier anomalía de tráfico, no necesariamente C2) y no está anclada a **threat intelligence concreta**, lo que la hace menos precisa que comparar contra IOCs conocidos.
+
+**C** (Revisar findings de Security Health Analytics en SCC):
+
+- **SHA** se enfoca en detectar **malas configuraciones de recursos de GCP** (buckets públicos, IAM excesivo, VMs sin parchear, etc.) — no está diseñado para analizar **tráfico de red saliente** en busca de comunicación con C2. Es la herramienta equivocada para este objetivo específico.
+
+**D** (Regla YARA-L que compara tráfico contra dominios de baja prevalencia + registros WHOIS recientes):
+
+- Esta es una **heurística de detección genuina** (dominios recién registrados + baja prevalencia son señales típicas de infraestructura C2), pero tiene un problema práctico: requeriría **datos de WHOIS integrados/enriquecidos** que probablemente no estén ya disponibles/ingeridos en tu entorno, y construir esa lógica de correlación desde cero en 24 horas es más complejo y menos directo que aprovechar **threat intelligence ya existente** (opción A).
+- Es una técnica más avanzada y con más **falsos positivos potenciales** (dominios nuevos y de baja prevalencia no son automáticamente maliciosos), comparado con hacer matching directo contra indicadores **ya confirmados** como maliciosos.
+
+---
+
+#### La idea clave para el examen
+
+Cuando el escenario combine **"generar resultados en un plazo corto (24 horas)"** + **"analizar datos históricos"** + **"amenaza conocida por tipo pero no por indicador específico (C2 desconocidos)"**, la solución más eficiente es usar el **retrohunt de Google SecOps** con una regla que compare contra **threat intelligence ya ingerida** — aprovechando infraestructura nativa ya lista, en lugar de construir análisis estadísticos personalizados (BigQuery) o heurísticas más complejas (WHOIS + prevalencia) que requieren más tiempo de desarrollo y validación.
